@@ -19,7 +19,7 @@ h1{
     font-size: 190px;
     font-weight: 500;
     text-align: center;
-    margin-left: 15px;
+    margin-left: 0px;
 }
 h2{
     font-size: 64px;
@@ -34,23 +34,23 @@ p{
     font-size: 24px;
 }
 img{
-    margin-left: 20px;
+    margin-left: 0px;
 }
 hr {
     border: 2px solid black;
-    margin-left: 20px;
+    margin-left: 0px;
     width: 1440px;
 }
 #top{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-left: 20px;
+    margin-left: 0px;
     width: 1440px;
 }
 #description{
     display: flex;
-    margin: 30px 0px 0px 20px;
+    margin: 30px 0px 0px    0px;
 }
 .firstpic{
     width: 700px;
@@ -87,7 +87,7 @@ hr {
 }
 .news{
     width: 1440px;
-    margin: 80px 0px 80px 20px;
+    margin: 80px 0px 80px 0px;
 }
 .topleft{
     display: flex;
